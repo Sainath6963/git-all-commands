@@ -1,0 +1,8 @@
+touch  => to  create files
+git init => to create reposatry
+u -- untract
+A -- added 
+git add " file name"  ==> add one file 
+git add .  ==> add all files
+git status ==> to check which file is in changes and stages 
+git commit -m 'message related to commit'  =>> commit the changes
