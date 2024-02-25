@@ -5,6 +5,7 @@ A -- added
 git add " file name"  ==> add one file 
 git add .  ==> add all files
 git status ==> to check which file is in changes and stages 
-git commit -m 'message related to commit'  =>> commit the changes
+git commit -m 'message related to commit'  =>> commit the changes    message can be depended upon the company noms it can past tense or present tensegt
 git  config --global user.email 'sainathbalkawade7@gmail.com';
 git config --global user.name 'sainath'
+git checkout ' id dychi' - to goto purna version
